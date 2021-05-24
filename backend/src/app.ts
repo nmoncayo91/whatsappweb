@@ -23,7 +23,7 @@ Sentry.init({
 //prueba
 });
 //prueba
-// ReactDOM.render(<App />, document.getElementById("root"));
+// ReactDOM.r2ender(<App />, document.getElementById("root"));
 
 const app = express();
 
