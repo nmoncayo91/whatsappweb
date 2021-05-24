@@ -22,7 +22,7 @@ Sentry.init({
   tracesSampleRate: 1.0
 //prueba
 });
-
+//prueba
 // ReactDOM.render(<App />, document.getElementById("root"));
 
 const app = express();
